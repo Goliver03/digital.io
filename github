@@ -1,1 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rafael Oliveira - Consultoria em Liderança</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background-color: #4CAF50; color: white; padding: 1em 0; text-align: center; }
+        nav ul { list-style: none; padding: 0; }
+        nav ul li { display: inline; margin: 0 1em; }
+        nav ul li a { color: white; text-decoration: none; }
+        section { padding: 2em; }
+        footer { background-color: #4CAF50; color: white; text-align: center; padding: 1em 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rafael Oliveira</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#sobre">Sobre Mim</a></li>
+                <li><a href="#servicos">Serviços</a></li>
+                <li><a href="#eixos">Eixos de Desenvolvimento</a></li>
+                <li><a href="#investimento">Investimento</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
 
+    <section id="home">
+        <h2>Bem-vindo!</h2>
+        <p>Uma breve apresentação sobre nosso serviço de consultoria especializada em desenvolvimento de liderança e melhoria da Gestão Profissional e Pessoal.</p>
+    </section>
+
+    <section id="sobre">
+        <h2>Sobre Mim</h2>
+        <p>Meu nome é Rafael Oliveira. Sou especialista em desenvolvimento de liderança e gestão. Nosso objetivo é desenvolver líderes de gestão em alta performance.</p>
+        <p>Destinado a: Profissionais que buscam excelência em suas áreas.</p>
+        <p>Especialmente para esteticistas com sua própria clínica.</p>
+    </section>
+
+    <section id="servicos">
+        <h2>Serviços</h2>
+        <p>Nosso programa oferece encontros semanais de uma hora, com uma metodologia que combina teoria e prática para alcançar a transformação desejada.</p>
+        <h3>Metodologia</h3>
+        <p>Teoria + Prática = Transformação. Tutoria personalizada de alto rendimento.</p>
+    </section>
+
+    <section id="eixos">
+        <h2>Eixos de Desenvolvimento</h2>
+        <ul>
+            <li>Comunicação Eficaz</li>
+            <li>Gestão de Equipes</li>
+            <li>Delegar e Não Abdicar</li>
+            <li>Manter o Foco Mesmo Sob Pressão</li>
+            <li>Visão Estratégica e Pensamento Inovador</li>
+            <li>Controle Financeiro</li>
+            <li>Liderança Transformacional</li>
+            <li>Alicerçamento de Valores</li>
+            <li>Planejamento Estratégico</li>
+            <li>Definição de Metas e Plano de Ação</li>
+        </ul>
+    </section>
+
+    <section id="investimento">
+        <h2>Investimento</h2>
+        <p>Por apenas R$ 480,00 mensais</p>
+        <p>R$ 800,00 mensais</p>
+        <p>R$ 200,00 por semana</p>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Telefone: 37 9 9991-5448</p>
+        <p>Email: rafa3digital@gmail.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Rafael Oliveira. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
